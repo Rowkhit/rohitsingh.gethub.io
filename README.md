@@ -1,1 +1,1 @@
-# https://rohitsingh.github.io
+# rohitsingh.github.io
